@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="061e1e6e-3b5f-4194-89bd-59101eb26709" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1XZXy45TYmhTDslk6tVQvAVhVF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="061e1e6e-3b5f-4194-89bd-59101eb26709" name="Default Changelist" comment="" />
+      <created>1581254841815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581254841815</updated>
+      <workItem from="1581254843196" duration="2269000" />
+      <workItem from="1581257809931" duration="326000" />
+      <workItem from="1581260876049" duration="886000" />
+      <workItem from="1582300173523" duration="14000" />
+      <workItem from="1582301172056" duration="739000" />
+      <workItem from="1582353723818" duration="2522000" />
+      <workItem from="1582469805439" duration="1877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="21" key="#CLI_Interpreters" timestamp="1581258164547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="21" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1581258164547" />
+    <state x="406" y="0" key="#PHP" timestamp="1582469907635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1582469907635" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581257978712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581257978712" />
+    <state x="517" y="294" key="NewPhpFileDialog" timestamp="1582471682786">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="294" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1582471682786" />
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1582469810804">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582469810804" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582470395568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582470395568" />
+  </component>
+</project>
